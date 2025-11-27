@@ -17,51 +17,25 @@ Experience a clean UI, smooth layout, and beautiful food visuals. 🍜✨
 🌟 Features
 
 🎨 Clean & modern UI
-
 📱 Fully responsive design
-
 🍽️ High-quality food images
-
 🧭 Smooth navigation bar
-
 📨 Message input section
-
 ⚡ Fast loading, lightweight
 
 🛠️ Technologies Used
-
-HTML5,CSS3
-
-Images & Visual Assets
-
-📁 Project Structure
-Food_Landing_Page/
-│── index.html
-│── style.css
-│── images/
-│     └── Screnshot1.png
-│── README.md
-
-🚀 How to Run Locally
-git clone https://github.com/anandmahalle31/Food_Landing_Page.git
-cd Food_Landing_Page
-open index.html   (or just double-click)
+     HTML5,CSS3
 
 🔮 Future Enhancements
 
 ✨ Add animations
-
 📨 Add backend for message form
-
 🍕 Add full menu page
-
 🌙 Add dark mode
 
 👤 Author
-
 Created with ❤️ by Anand Mahalle
 
 ⭐ Support
-
 If you like this project, give it a star ⭐ on GitHub!
 
