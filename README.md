@@ -12,7 +12,7 @@ Experience a clean UI, smooth layout, and beautiful food visuals. 🍜✨
 📸 Homepage Preview
 ## 🖼️ Homepage Preview
 
-![Homepage Screenshot](images/Screnshot1.png)
+![Homepage Screenshot](./Screnshot1.png)
 
 🌟 Features
 
@@ -30,9 +30,7 @@ Experience a clean UI, smooth layout, and beautiful food visuals. 🍜✨
 
 🛠️ Technologies Used
 
-HTML5
-
-CSS3
+HTML5,CSS3
 
 Images & Visual Assets
 
